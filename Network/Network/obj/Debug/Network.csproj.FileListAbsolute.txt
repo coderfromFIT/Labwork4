@@ -1,0 +1,7 @@
+C:\Users\palek\source\repos\Network\Network\bin\Debug\Network.exe.config
+C:\Users\palek\source\repos\Network\Network\bin\Debug\Network.exe
+C:\Users\palek\source\repos\Network\Network\bin\Debug\Network.pdb
+C:\Users\palek\source\repos\Network\Network\obj\Debug\Network.csproj.AssemblyReference.cache
+C:\Users\palek\source\repos\Network\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+C:\Users\palek\source\repos\Network\Network\obj\Debug\Network.exe
+C:\Users\palek\source\repos\Network\Network\obj\Debug\Network.pdb

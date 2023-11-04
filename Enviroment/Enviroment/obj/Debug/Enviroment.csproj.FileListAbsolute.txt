@@ -1,0 +1,7 @@
+C:\Users\palek\source\repos\Enviroment\Enviroment\bin\Debug\Enviroment.exe.config
+C:\Users\palek\source\repos\Enviroment\Enviroment\bin\Debug\Enviroment.exe
+C:\Users\palek\source\repos\Enviroment\Enviroment\bin\Debug\Enviroment.pdb
+C:\Users\palek\source\repos\Enviroment\Enviroment\obj\Debug\Enviroment.csproj.AssemblyReference.cache
+C:\Users\palek\source\repos\Enviroment\Enviroment\obj\Debug\Enviroment.csproj.CoreCompileInputs.cache
+C:\Users\palek\source\repos\Enviroment\Enviroment\obj\Debug\Enviroment.exe
+C:\Users\palek\source\repos\Enviroment\Enviroment\obj\Debug\Enviroment.pdb
